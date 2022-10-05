@@ -1,0 +1,22 @@
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\bin\Debug\UrT pk3 creator.exe
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\bin\Debug\UrT pk3 creator.pdb
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Debug\UrT_pk3_creator.Properties.Resources.resources
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Debug\UrT pk3 creator.exe
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Debug\UrT pk3 creator.pdb
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Debug\UrT_pk3_creator.AddServer.resources
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Debug\UrT_pk3_creator.Main.resources
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Debug\UrT pk3 creator.exe
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Debug\UrT pk3 creator.pdb
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Debug\UrT_pk3_creator.AddServer.resources
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Debug\UrT_pk3_creator.Main.resources
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\bin\Debug\UrT pk3 creator.exe
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\bin\Debug\UrT pk3 creator.pdb
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Debug\UrT_pk3_creator.Properties.Resources.resources
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\bin\Debug\UrT pk3 creator.exe.config
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Debug\UrT_pk3_creator.AdvancedSettingsForm.resources

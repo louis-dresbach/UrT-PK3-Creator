@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UrT_pk3_creator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServerList" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomBackground" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CustomBackgroundEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ExtraPageButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">^1-V^7R^2z-</Value>
+    </Setting>
+    <Setting Name="ExtraPageEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ExtraPageLeft" Type="System.String" Scope="User">
+      <Value Profile="(Default)">This custom pk3 was created using \r\nThe Custom PK3 creator by -VRz-K3I.</Value>
+    </Setting>
+    <Setting Name="ExtraPageTopRight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-VRz- WeRockz!</Value>
+    </Setting>
+    <Setting Name="ExtraPageBottomRight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.vrzclan.com/</Value>
+    </Setting>
+    <Setting Name="ExtraPageTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[WE ROCKZ]</Value>
+    </Setting>
+    <Setting Name="CustomPK3Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">zzzpak000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

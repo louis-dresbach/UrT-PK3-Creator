@@ -1,0 +1,33 @@
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\bin\Release\UrT pk3 creator.exe
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\bin\Release\UrT pk3 creator.pdb
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Release\UrT_pk3_creator.Form1.resources
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Release\UrT_pk3_creator.Properties.Resources.resources
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Release\UrT pk3 creator.exe
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\UrT pk3 creator\obj\x86\Release\UrT pk3 creator.pdb
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\bin\Release\UrT pk3 creator.exe
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\bin\Release\UrT pk3 creator.pdb
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT_pk3_creator.AddServer.resources
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT_pk3_creator.Main.resources
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT_pk3_creator.Properties.Resources.resources
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT pk3 creator.exe
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT pk3 creator.pdb
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\bin\Release\UrT pk3 creator.exe.config
+C:\Users\Hiroyuki\Documents\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT_pk3_creator.AdvancedSettingsForm.resources
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\bin\Release\UrT pk3 creator.exe.config
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\bin\Release\UrT pk3 creator.exe
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\bin\Release\UrT pk3 creator.pdb
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT pk3 creator.csprojAssemblyReference.cache
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT_pk3_creator.AddServer.resources
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT_pk3_creator.AdvancedSettingsForm.resources
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT_pk3_creator.Main.resources
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT_pk3_creator.Properties.Resources.resources
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT pk3 creator.csproj.GenerateResource.cache
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT pk3 creator.csproj.CoreCompileInputs.cache
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT pk3 creator.exe
+D:\Users\Louis\Documents\Projects\Codes\UrT pk3 creator\UrT pk3 creator\obj\x86\Release\UrT pk3 creator.pdb
